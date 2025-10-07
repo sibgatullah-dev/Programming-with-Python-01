@@ -1,0 +1,1 @@
+"Division: ",division,"Upazilas: ",bd_division[division]["upazila"],"Union: ",bd_division[division]['union'],"District: ",bd_division[division]['district']
